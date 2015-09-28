@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+c"], "command": "project" },
+	{ "keys": ["alt+c"], "command": "here" }
+]

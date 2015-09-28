@@ -1,0 +1,1 @@
+{"url": "https://github.com/kiliwalk/sublime_cmd", "dependencies": [], "version": "1.0.0", "description": "launch conemu from the current dir or the project folder", "platforms": ["windows"], "sublime_text": "3"}

@@ -1,0 +1,5 @@
+[
+    { "caption": "-", "id": "file" },
+    { "command": "here", "caption": "Cmd Here"},
+    { "command": "project", "caption": "Cmd Project"}
+]
