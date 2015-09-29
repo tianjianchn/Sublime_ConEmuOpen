@@ -15,7 +15,7 @@ class ConEmuOpenCommand():
             project_dir, _ = os.path.split(self.window.active_view().file_name())
             project_name = project_dir
         else: #then exit
-            return (None, None)
+            return (None, None, 0)
         return (project_name, project_dir, has_project)
 
     def open_conemu(self, dirname, title):
