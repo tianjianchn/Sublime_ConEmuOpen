@@ -12,6 +12,9 @@ launch [ConEmu](https://github.com/Maximus5/ConEmu) from the current dir or the 
 you should install the [ConEmu](https://github.com/Maximus5/ConEmu) first, and add `ConEmu.exe` to the `%PATH%` environment var.
 then use `Package Control` to install this package. 
 
+## Usage
+use `alt+c` to open current file's folder, use `ctrl+alt+c` to open the project or top folder.
+
 
 ## License :
 
