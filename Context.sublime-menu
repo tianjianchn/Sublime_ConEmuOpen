@@ -1,5 +1,5 @@
 [
     { "caption": "-", "id": "file" },
-    { "command": "here", "caption": "Cmd Here"},
-    { "command": "project", "caption": "Cmd Project"}
+    { "command": "open_conemu_here", "caption": "Open ConEmu Here"},
+    { "command": "open_conemu_project", "caption": "Open ConEmu Project"}
 ]
