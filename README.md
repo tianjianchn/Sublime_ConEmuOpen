@@ -15,6 +15,8 @@ then use `Package Control` to install this package.
 ## Usage
 use `alt+c` to open current file's folder, use `ctrl+alt+c` to open the project or top folder.
 
+Command palette commands: `ConEmu: Open current file folder` and `ConEmu: Open project or top folder`.
+
 
 ## License :
 
