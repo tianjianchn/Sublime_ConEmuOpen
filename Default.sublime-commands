@@ -1,0 +1,8 @@
+[{
+        "caption": "ConEmu: Open current file folder",
+        "command": "open_conemu_here",
+    }, {
+        "caption": "ConEmu: Open project or top folder",
+        "command": "open_conemu_project",
+    },
+]
